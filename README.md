@@ -6,7 +6,7 @@ Discover a curated selection of MERN stack projects in this repository. From dyn
 
 1.  Project Description: Constructed a fully responsive and dynamic website employing HTML, CSS, Node.js, Express.js, MongoDB, and Mongoose, showcasing expertise in end-to-end web development and database 
     integration.
-    # Project Link:  https://mern-website-chi.vercel.app/
+    ## Project Link:  https://mern-website-chi.vercel.app/
     Code Link: https://github.com/Shikha14DoD/MERN_website
     Vercel: https://vercel.com/shikha14dod/mern-website/Ehqd98VmVjbQXVyttKVeaM6q83HL
 
